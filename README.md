@@ -1,2 +1,2 @@
-Face_Detection_nd_Recognition_Deep_Learning
+Face_Recognition_Deep_Learning
 
