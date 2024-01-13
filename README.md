@@ -1,3 +1,2 @@
-# Face_detection_nd_recognition_deep_learning_2023
-Face_recognition_deep_learning_2023 with dynamic Approach
+Face_Detection_nd_Recognition_Deep_Learning
 
